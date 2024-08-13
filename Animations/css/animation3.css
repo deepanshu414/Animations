@@ -1,0 +1,68 @@
+body,html,.wrap{
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+body{
+    -webkit-filter: contrast(25);
+    background:black;
+}
+.wrap{
+    background: inherit;
+    animation:7s spin ease-in-out infinite;
+}
+.meta:before,.meta:after{
+    content:"";
+    position: absolute;
+    width:100px;
+    height: 100px;
+    left:50%;
+    top:50%;
+    margin:-50px;
+    background: rgba(160,230,245,.9);
+    border-radius: 100%;
+    -webkit-filter:blur(25px);
+    filter:blur(25px);
+    animation:move 12s infinite alternate ease-in-out;
+}
+.meta:before{
+    animation-duration:19.3s;
+    animation-delay: -3.3s;
+}
+.meta:nth-child(2):before{
+    animation-duration: 14.7s;
+    animation-delay: -2.7s;
+}
+.meta:nth-child(2):after{
+    animation-duration: 8.7s;
+    animation-delay: -5.32s;
+}    
+@keyframes spin{
+    to{
+        transform: rotate(360deg)
+    }
+}
+@keyframes move{
+    0%{
+        transform: translate(0%,100%);
+    }
+    15%{
+        transform: translate(-120%,160%);
+    }
+    30%{
+        transform: translate(100%,-80%);
+    }
+    40%{
+        transform: translate(-140%,0%);
+    }
+    60%{
+        transform: translate(40%,-80%);
+    }
+    80%{
+        transform: translate(-160%,-20%);
+    }
+    100%{
+        transform: translate(40%,60%);
+    }
+}
