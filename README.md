@@ -3,16 +3,16 @@
 Welcome to my Animations Portfolio! This repository showcases a collection of animations I've created using CSS and JavaScript.
 
 ## Table of Contents
-- [Animation 1](#animation-1)
+- [Animation 1](#animations)
 - [CSS/Style](#cssstyle)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Animation 1
-The `css/animation1.css` file contains the CSS code for the first animation in this project. This animation uses CSS transitions and keyframes to create a dynamic and visually appealing effect.
+## Animations
+The `css/animations.css` file contains the CSS code for the animations in this project. This animation uses CSS transitions and keyframes to create a dynamic and visually appealing effect.
 
-You can view the animation in action by opening the `animation1.html` file in your web browser.
+You can view the animation in action by opening the `animations.html` file in your web browser.
 
 ## CSS/Style
 The `css/style.css` file contains the general CSS styles used for the `index.html` page, which serves as the main portfolio page for all your animations and projects.
