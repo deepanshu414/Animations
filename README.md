@@ -3,7 +3,7 @@
 Welcome to my Animations Portfolio! This repository showcases a collection of animations I've created using CSS and JavaScript.
 
 ## Table of Contents
-- [Animation 1](#animations)
+- [Animation](#animations)
 - [CSS/Style](#cssstyle)
 - [Usage](#usage)
 - [Contributing](#contributing)
