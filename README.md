@@ -7,6 +7,7 @@ Welcome to my Animations Portfolio! This repository showcases a collection of an
 - [CSS/Style](#cssstyle)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
 
 ## Animations
@@ -32,7 +33,21 @@ To use this project, follow these steps:
 4. Click on the links to navigate to the individual animation pages (e.g., `animation1.html`).
 
 ## Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. I'm always looking for new ideas and improvements to the animations and the overall portfolio.
+
+Contributions to the Multi-Language Translator are welcome! Here's how you can contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/awesome-feature`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add some awesome feature'`)
+5. Push to the branch (`git push origin feature/awesome-feature`)
+6. Create a new Pull Request
+
+Please make sure to update tests as appropriate and adhere to the project's coding standards.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
