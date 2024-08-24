@@ -1,6 +1,5 @@
 import os
 from github import Github
-
 def get_repo_structure(path='.', prefix=''):
     structure = []
     items = sorted(os.listdir(path))
