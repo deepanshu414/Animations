@@ -4,6 +4,7 @@ Welcome to my Animations Portfolio! This repository showcases a collection of an
 
 ## Table of Contents
 - [Animation](#animations)
+- [Project Structure](#project-structure)
 - [CSS/Style](#cssstyle)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,6 +15,11 @@ Welcome to my Animations Portfolio! This repository showcases a collection of an
 The `css/animations.css` file contains the CSS code for the animations in this project. This animation uses CSS transitions and keyframes to create a dynamic and visually appealing effect.
 
 You can view the animation in action by opening the `animations.html` file in your web browser.
+
+## Project Structure
+
+<!-- START_STRUCTURE -->
+<!-- END_STRUCTURE -->
 
 ## CSS/Style
 The `css/style.css` file contains the general CSS styles used for the `index.html` page, which serves as the main portfolio page for all your animations and projects.
