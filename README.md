@@ -19,6 +19,32 @@ You can view the animation in action by opening the `animations.html` file in yo
 ## Project Structure
 
 <!-- START_STRUCTURE -->
+```
+├── Animations
+│   ├── animation1.html
+│   ├── animation2.html
+│   ├── animation3.html
+│   ├── animation4.html
+│   ├── css
+│   │   ├── animation1.css
+│   │   ├── animation2.css
+│   │   ├── animation3.css
+│   │   ├── animation4.css
+│   │   └── style.css
+│   └── icon
+│       └── animation.png
+├── LICENSE
+├── README.md
+├── image
+│   ├── animation1.PNG
+│   ├── animation2.PNG
+│   ├── animation3.PNG
+│   ├── animation4.PNG
+│   ├── hero_man.png
+│   └── portfolio.png
+├── index.html
+└── repo_structure.txt
+```
 <!-- END_STRUCTURE -->
 
 ## CSS/Style
