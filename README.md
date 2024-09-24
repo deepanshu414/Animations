@@ -25,17 +25,20 @@ You can view the animation in action by opening the `animations.html` file in yo
 ```
 ├── Animations
 │   ├── JS
+│   │   ├── animation5.js
 │   │   └── clock.js
 │   ├── animation1.html
 │   ├── animation2.html
 │   ├── animation3.html
 │   ├── animation4.html
+│   ├── animation5.html
 │   ├── clock.html
 │   ├── css
 │   │   ├── animation1.css
 │   │   ├── animation2.css
 │   │   ├── animation3.css
 │   │   ├── animation4.css
+│   │   ├── animation5.css
 │   │   ├── clock.css
 │   │   └── style.css
 │   └── icon
@@ -47,6 +50,7 @@ You can view the animation in action by opening the `animations.html` file in yo
 │   ├── animation2.PNG
 │   ├── animation3.PNG
 │   ├── animation4.PNG
+│   ├── animation5.PNG
 │   ├── clock.PNG
 │   ├── hero_man.png
 │   └── portfolio.png
